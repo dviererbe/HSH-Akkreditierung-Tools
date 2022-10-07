@@ -8,7 +8,7 @@ A collection of tools, written in C#, which I developed for my job at the [Facul
 
 ## License
 
-Accreditation Document Management Tools
+Accreditation Document Management Tools    
 Copyright (C) 2019-2022 Dominik Viererbe
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or *(at your option)* any later version.
